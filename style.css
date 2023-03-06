@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.QR {
+    margin: 10px auto 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 12px;
+}
+
+.heading {
+    width: 200px;
+    margin: auto;
+    font-size: 1em;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+.para {
+    width: 190px;
+    margin: 10px auto 10px;
+    font-size: 0.75em;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(121, 117, 117);
+
+}
+
+.attribution {
+    width: 220px;
+    margin: 10px auto 10px;
+    position: relative;
+    top: 41px;
+}
+
+.boxed {
+
+    background-color: #bcd9f4;
+}
+
+.container {
+
+    background-color: #fff;
+    border-radius: 14px;
+    height: 335px;
+    width: 230px;
+    margin: auto;
+    position: relative;
+    top: 45px;
+}
+
+.boxed {
+
+    height: 425px;
+}
